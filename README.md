@@ -24,9 +24,9 @@ This portfolio shows how I work with data end to end:
 Primarily, the project targets anybody who is seeking a new job, looking to switch or even upskill for a new role, by dealing with questions like what are the skills required for that role and what are salary they can expect.
 
 Skills Gained:
-🔹 SQL: Joins, CTEs, filtering and grouping 
-🔹 Excel: Aggregations, arrays, formulas, charts, data validation, Power Query 
-🔹 Power BI: Charts, bookmarks, Power Query, data modelling, DAX, measures, parameters 
+-  SQL: Joins, CTEs, filtering and grouping 
+-  Excel: Aggregations, arrays, formulas, charts, data validation, Power Query 
+-  Power BI: Charts, bookmarks, Power Query, data modelling, DAX, measures, parameters 
 
 ![Power BI dashboard](https://github.com/Manoah1401/Data-job-market-analysis/blob/main/powerbi-dashboard/assets/powerbi_dashboard.gif)
 
