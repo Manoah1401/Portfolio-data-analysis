@@ -21,29 +21,26 @@ This portfolio shows how I work with data end to end:
 
 ## 1️⃣ Data Jobs Analysis
 
-**Focus:** Top-paying jobs, skills required, in-demand skills, and the most optimal skills to learn for data analysts.
+Primarily, the project targets anybody who is seeking a new job, looking to switch or even upskill for a new role, by dealing with questions like what are the skills required for that role and what are salary they can expect.
 
-**Skills used:** Joins, CTEs, Aggregations, Filtering
+Skills Gained:
+🔹 SQL: Joins, CTEs, filtering and grouping 
+🔹 Excel: Aggregations, arrays, formulas, charts, data validation, Power Query 
+🔹 Power BI: Charts, bookmarks, Power Query, data modelling, DAX, measures, parameters 
 
-**Key finding:** Sql tops the list for the most optimal skill for data analysts, with the highest frequency while also having a high median salary
+![Power BI dashboard](https://github.com/Manoah1401/Data-job-market-analysis/blob/main/powerbi-dashboard/assets/powerbi_dashboard.gif)
 
-![SQL results](sql-job-market/asset/2.jpg)
-
-👉 [Full project and queries](https://github.com/Manoah1401/Data-job-market-analysis)
+Check out the full project here 👉: [Full project, dashboard and queries](https://github.com/Manoah1401/Data-job-market-analysis)
 
 ---
 
 ## 2️⃣ Gaussian Process Regression for Equity Markets
 
-**Focus:** An interactive dashboard that shows median salary by job title, country, and schedule type, with a map chart, a bar chart, and a **Top Skill card** that updates with the selections.
+This project was the culmination of a couple of months spent studying statistical machine learning theory during my internship at Bhabha Atomic Research Centre (BARC).
 
-**Skills used:** Charts, array formulas, data validation dropdowns, dashboard cards, pivot tables, pivot charts.
+The main focus was exploring Gaussian Process Regression (GPR) and implementing a GPR model from scratch using its underlying statistical formulations, applied to the S&P 500 dataset.
 
-**Key finding:** The median salary of the senior roles are much higher in comparision to the junior roles. The median salary for Data Analyst in the US is around $90k, with sql being the most in demand skill.
-
-![Excel dashboard](excel-analysis/assets/Dashboard.gif)
-
-👉 [Full project and dashboard file](https://github.com/Manoah1401/GPR-Implementation)
+Check out the full project here 👉: [Full project](https://github.com/Manoah1401/GPR-Implementation)
 
 
 ## 🛠️ Skills Summary
